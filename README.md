@@ -1,6 +1,11 @@
-# Global_Optimization_Perovskite_Stability
-全局优化
+# PCE machine learning model and prediction using dataset from nature Energy paper
+
 
 训练测试集：
 
-train-test-classification: Classifier_data_rfe.csv
+data14 12.7.csv
+
+
+python代码
+
+rfe.ipynb
